@@ -117,12 +117,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilly404cat&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilly404cat&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=lilly404cat&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilly404cat&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilly404cat&theme=tokyonight">
+  <img src="https://streak-stats.demolab.com?user=lilly404cat&theme=tokyonight" />
 </p>
 
 ---
