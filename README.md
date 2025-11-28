@@ -115,14 +115,9 @@
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilly404cat&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=lilly404cat&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilly404cat&show_icons=true&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lilly404cat&theme=tokyonight" />
-</p>
 
 ---
 
