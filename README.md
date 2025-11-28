@@ -26,6 +26,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 
 ### 🔧 CI/CD Pipelines
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -98,17 +99,18 @@
 ---
 
 ## 📚 Currently Learning & Improving
-- ☁️ **OpenStack**, 🐘 **Terragrunt**, 🐘 **Terragrunt**
+- ☁️ **OpenStack**, 🐘 **Terragrunt**, 
 - 🧩 **Kafka**, **Redis**, **Elasticsearch**, **Kibana**  
 - ⚙️ **Ansible** and **Vagrant** for configuration management & automation  
-- 🔐 Azure **monitoring**, **security**, and **cloud best practices**  
+- 🔐 Azure **monitoring**, **security**, and **cloud best practices** 
+- 🔐 HashiCorp Vault: secret management & security automation 
 - 🔧 Strengthening: Kubernetes, Terraform, CI/CD automation  
 - 📈 Expanding: advanced observability & cloud security practices  
 - 🚀 Learning distributed systems, streaming architectures, and scalable designs  
 - 🛠 Continually improving DevOps fundamentals & automation skills  
 - Best practices in **disaster recovery**, high availability, and business continuity  
 - Modern **deployment strategies** (blue-green, canary, rolling, shadow) 
-
+- 🦀 **Rust** 🐹 **Go (Golang)** 
 <!-- --- -->
 
 <!-- ## 📊 GitHub Stats
